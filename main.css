@@ -7,6 +7,11 @@
   margin: 0;
   padding: 0;
 }
+
+h1 {
+ font-family: Helvetica;
+}
+
 #mainmenu {
   background: #000000;
   position: relative;
