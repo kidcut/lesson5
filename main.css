@@ -50,7 +50,7 @@ h1 {
 
 }
 
-body {background: #c7b39b url(images/bg.jpg); /* Цвет фона и путь к файлу */ color: #000000; /* Цвет текста */}
+body {background: #c7b39b url(/images/bg.jpg); /* Цвет фона и путь к файлу */ color: #000000; /* Цвет текста */}
 
 #content {
   width: 500px; /* Ширина слоя */
